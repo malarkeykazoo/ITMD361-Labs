@@ -8,3 +8,5 @@
 - [Link to Lab 2 Repo](https://github.com/malarkeykazoo/ITMD361-Lab2/) - <https://github.com/malarkeykazoo/ITMD361-Lab2/>
 - [Link to Lab 3](https://malarkeykazoo.github.io/ITMD361-Lab3/) - <https://malarkeykazoo.github.io/ITMD361-Lab3>
 - [Link to Lab 3 Repo](https://github.com/malarkeykazoo/ITMD361-Lab3/) - <https://github.com/malarkeykazoo/ITMD361-Lab3/>
+- [Link to Lab 4](https://malarkeykazoo.github.io/ITMD361-Lab4/) - <https://malarkeykazoo.github.io/ITMD361-Lab4>
+- [Link to Lab 4 Repo](https://github.com/malarkeykazoo/ITMD361-Lab4/) - <https://github.com/malarkeykazoo/ITMD361-Lab4/>
